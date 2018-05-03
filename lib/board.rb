@@ -1,2 +1,3 @@
-# Define the variable board below.
-Board = [" "," "," "," "," "," "," "," "," "]
+# Define the variable board below
+board = []
+
